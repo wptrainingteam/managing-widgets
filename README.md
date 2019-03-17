@@ -48,7 +48,14 @@ Widgets are tools that allow a user to add and control features or content to 
 
 ### Examples of Widgets
 
-Widgets can add features to a page such as: a calendar, a map, an archive list, a list of profile photos for users that are currently logged in. [info]The current version of WordPress provide functionality to add widgets to posts. However, some creative authors have created plugins that provide users with the capability to add widgets to posts or within page content. We will not be covering this nuance in this tutorial[/info]. Review the homepage of the Twenty Sixteen theme and its predefined existing widgets in the footer . We'll discuss in a bit more detail where widgets come from, but suffice it to say that they either come bundled in a theme or can be added by installing and activating certain plugins. In today's tutorial we will be using the Twenty Sixteen and Twenty Fifteen themes. Let's have a look at how the theme authors are using widgets in a standard install of the Twenty Sixteen theme. [caption id="attachment_5560" align="aligncenter" width="281"][![twenty-sixteen-screen-shot](https://make.wordpress.org/training/files/2014/11/twenty-sixteen-screen-shot-281x300.jpeg)](https://make.wordpress.org/training/files/2014/11/twenty-sixteen-screen-shot.jpeg) image 1[/caption] Identify areas on the page where widgets can be included (e.g. footer, sidebars).
+Widgets can add features to a page such as: a calendar, a map, an archive list, a list of profile photos for users that are currently logged in.
+*The current version of WordPress provide functionality to add widgets to posts. However, some creative authors have created plugins that provide users with the capability to add widgets to posts or within page content. We will not be covering this nuance in this tutorial.*
+
+Review the homepage of the Twenty Sixteen theme and its predefined existing widgets in the footer . We'll discuss in a bit more detail where widgets come from, but suffice it to say that they either come bundled in a theme or can be added by installing and activating certain plugins. In today's tutorial we will be using the Twenty Sixteen and Twenty Fifteen themes. Let's have a look at how the theme authors are using widgets in a standard install of the Twenty Sixteen theme.
+![twenty-sixteen-screen-shot](https://user-images.githubusercontent.com/935397/54498360-a1dbec00-491b-11e9-98d3-c1f365a13f38.png)
+(image 1)
+
+Identify areas on the page where widgets can be included (e.g. footer, sidebars).
 
 ### Where do widgets come from?
 
@@ -70,27 +77,48 @@ Take a moment to find where these "widget areas" appear on your webpage.
 
 ### Modify, Add and Delete Widgets
 
-You can drag and drop the widgets into these areas.  Let's start by deleting the "Recent Comments" widget from your sidebar. [![](https://make.wordpress.org/training/files/2014/11/Screenshot-2016-03-16-13.35.34-300x175.png)](https://make.wordpress.org/training/files/2014/11/Screenshot-2016-03-16-13.35.34.png)
+You can drag and drop the widgets into these areas. Let's start by deleting the "Recent Comments" widget from your sidebar.
+![widgets area](https://user-images.githubusercontent.com/935397/54498510-ac978080-491d-11e9-923c-80fcc5966667.png)
+(image 2)
 
 When you click on the arrow to the right on the title line (see image 2), it will open your widgets options.
 
 "Title", "Delete" and "Close" are the only options for the search widget.
 
-Next, let's modify the "Category" widget to work as a dropdown. Save your work and view your site. Let's add a "Custom Menu" widget. You can drag and drop the widget into the widget area.  Now you can drag and drop your widget to place it where you like. [info]If you have not installed the "[test data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml)" or created any menus, nothing will show up in the menu on your site.[/info] Last we will add a "Tag Cloud" to the "Content Bottom 1 Widget Area". Save your changes and view your site. [info]Note: The bottom 1 & 2 widget areas do not show up on blog front page of Twenty-Sixteen.[/info] [caption id="attachment_5866" align="alignright" width="269"][![widgets-select-add](https://make.wordpress.org/training/files/2014/11/widgets-select-add-269x300.png)](https://make.wordpress.org/training/files/2014/11/widgets-select-add.png) image 3[/caption] Another way to add a widget is to select the widget you want to use. A pull-down list of the widget areas will show up. Select the area in which you want to place your widget and click the "Add Widget" button. (see image 3) [caption id="attachment_5874" align="alignright" width="175"][![widget-google-embed](https://make.wordpress.org/training/files/2014/11/widget-google-embed-175x300.png)](https://make.wordpress.org/training/files/2014/11/widget-google-embed.png) image 4[/caption]
+Next, let's modify the "Category" widget to work as a dropdown. Save your work and view your site. Let's add a "Navigation Menu" widget. You can drag and drop the widget into the widget area.  Now you can drag and drop your widget to place it where you like.
+*If you have not installed the "[test data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml)" or created any menus, nothing will show up in the menu on your site.*
+Last we will add a "Tag Cloud" to the "Content Bottom 1" widget area. Save your changes and view your site.
+*Note: The bottom 1 & 2 widget areas do not show up on blog front page of Twenty-Sixteen.*
+
+![add-widget](https://user-images.githubusercontent.com/935397/54498736-f08b8500-491f-11e9-8588-9f24c91a5e1b.png)
+(image 3)
+
+Another way to add a widget is to select the widget you want to use. A pull-down list of the widget areas will show up. Select the area in which you want to place your widget and click the "Add Widget" button. (see image 3)
 
 ### The Text Widget
 
-The text widget is very handy for adding simple HTML, images, or text into your widget area. Drag or place the "Text" widget into your "Sidebar".   Type your name and some text. Save your changes and view your site. You can add a Google map, also. Retrieve the Google map, and cut and paste the embed code into the text widget (see image 5).  Voilà ... your map appears in your sidebar!
+![widget-google-embed](https://user-images.githubusercontent.com/935397/54498810-d0a89100-4920-11e9-9a37-0b34c4f306d2.png)
+(image 4)
+
+The text widget is very handy for adding simple HTML, images, or text into your widget area. Drag or place the "Text" widget into your "Sidebar". Type your name and some text. Save your changes and view your site. You can add a Google map, also. Retrieve the Google map, and cut and paste the embed code into the text widget (see image 4). Voilà ... your map appears in your sidebar!
 
 ### Inactive Widgets
 
-[caption id="attachment_5865" align="alignright" width="300"][![widgets-inactive](https://make.wordpress.org/training/files/2014/11/widgets-inactive-300x197.png)](https://make.wordpress.org/training/files/2014/11/widgets-inactive.png) image 5[/caption] Often your widget will require some customization. If you have created a widget and want to save your settings, but need to remove it temporarily, you can save your widget and its settings in the "Inactive Widgets" area. Let's drag and drop the "Text" widget into the "Inactive Widgets" area. Now your widget is saved for future use. (see image 4)
+![inactive-widgets](https://user-images.githubusercontent.com/935397/54498834-0baac480-4921-11e9-9e3f-dc6d1d432939.png)
+(image 5)
+
+Often your widget will require some customization. If you have created a widget and want to save your settings, but need to remove it temporarily, you can save your widget and its settings in the "Inactive Widgets" area. Let's drag and drop the "Text" widget into the "Inactive Widgets" area. Now your widget is saved for future use. (see image 5)
 
 ### Widgets added with a plugins
 
 *   Many WordPress plugins will give you a widget to use on your site.
 *   Install (or activate) the plugin "[Image Widget](https://wordpress.org/plugins/image-widget/)"
-*   [![Screen Shot 2016-03-06 at 11.42.26 AM](https://make.wordpress.org/training/files/2014/11/Screen-Shot-2016-03-06-at-11.42.26-AM-300x179.png)](https://make.wordpress.org/training/files/2014/11/Screen-Shot-2016-03-06-at-11.42.26-AM.png)A new widget will appear in your active widget area (image 6).
+
+![image-widget](https://user-images.githubusercontent.com/935397/54498878-6c3a0180-4921-11e9-8c24-808c9a9861d7.png)
+(image 6)
+
+A new widget will appear in your active widget area (image 6).
+
 *   Drag the new widget into your sidebar.
 *   Select an image you would like to place in your sidebar. After selection, many other options and fields will appear for including your image, title, alt-text, size, caption, link, etc... Configure accordingly.
 *   Save your configuration and then view your site.
