@@ -51,7 +51,7 @@ Widgets are tools that allow a user to add and control features or content to 
 Widgets can add features to a page such as: a calendar, a map, an archive list, a list of profile photos for users that are currently logged in.
 *The current version of WordPress provide functionality to add widgets to posts. However, some creative authors have created plugins that provide users with the capability to add widgets to posts or within page content. We will not be covering this nuance in this tutorial.*
 
-Review the homepage of the Twenty Sixteen theme and its predefined existing widgets in the footer . We'll discuss in a bit more detail where widgets come from, but suffice it to say that they either come bundled in a theme or can be added by installing and activating certain plugins. In today's tutorial we will be using the Twenty Sixteen and Twenty Fifteen themes. Let's have a look at how the theme authors are using widgets in a standard install of the Twenty Sixteen theme.
+Review the homepage of the Twenty Sixteen theme and its predefined existing widgets in the footer. We'll discuss in a bit more detail where widgets come from, but suffice it to say that they either come bundled in a theme or can be added by installing and activating certain plugins. In today's tutorial we will be using the Twenty Sixteen and Twenty Fifteen themes. Let's have a look at how the theme authors are using widgets in a standard install of the Twenty Sixteen theme.
 ![twenty-sixteen-screen-shot](https://user-images.githubusercontent.com/935397/54498360-a1dbec00-491b-11e9-98d3-c1f365a13f38.png)
 (image 1)
 
@@ -100,7 +100,7 @@ Another way to add a widget is to select the widget you want to use. A pull-dow
 ![widget-google-embed](https://user-images.githubusercontent.com/935397/54498810-d0a89100-4920-11e9-9a37-0b34c4f306d2.png)
 (image 4)
 
-The text widget is very handy for adding simple HTML, images, or text into your widget area. Drag or place the "Text" widget into your "Sidebar". Type your name and some text. Save your changes and view your site. You can add a Google map, also. Retrieve the Google map, and cut and paste the embed code into the text widget (see image 4). Voilà ... your map appears in your sidebar!
+The text widget is very handy for adding simple HTML, images, or text into your widget area. Drag or place the "Text" widget into your "Sidebar". Type your name and some text. Save your changes and view your site. You can add a Google map, also. Retrieve the Google map, and cut and paste the embed code into the text widget (see image 4). Voilà... your map appears in your sidebar!
 
 ### Inactive Widgets
 
@@ -125,7 +125,7 @@ A new widget will appear in your active widget area (image 6).
 
 ### Other Widget Areas
 
-Let's change your theme to Twenty Fifteen. You can see you have the same widgets but have them show in a new and different widget area.  Twenty Fifteen comes with only one widget area labeled "Widget Area."  Other themes can have five, six, ten, or more widget areas. These are features of your theme and vary greatly. Let's change our theme back to Twenty Sixteen now. Widget visibility is theme dependent. Whether a widget appears to the left, right, or top of the page or on pages versus posts could all be unique to each theme.
+Let's change your theme to Twenty Fifteen. You can see you have the same widgets but have them show in a new and different widget area. Twenty Fifteen comes with only one widget area labeled "Widget Area." Other themes can have five, six, ten, or more widget areas. These are features of your theme and vary greatly. Let's change our theme back to Twenty Sixteen now. Widget visibility is theme dependent. Whether a widget appears to the left, right, or top of the page or on pages versus posts could all be unique to each theme.
 
 ### Wrap Up
 
