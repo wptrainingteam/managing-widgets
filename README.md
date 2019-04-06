@@ -100,7 +100,7 @@ Another way to add a widget is to select the widget you want to use. A pull-dow
 ![widget-google-embed](/images/Text-Widget.png)
 (image 4)
 
-The text widget is very handy for adding simple HTML, images, or text into your widget area. Drag or place the "Text" widget into your "Sidebar". Type your name and some text. Save your changes and view your site. You can add a Google map, also. Retrieve the Google map, and cut and paste the embed code into the text widget (see image 4). Voilà ... your map appears in your sidebar!
+The text widget is very handy for adding simple HTML, images, or text into your widget area. Drag or place the "Text" widget into your "Sidebar". Type your name and some text. Save your changes and view your site. You can add a Google map, also. Retrieve the Google map, and cut and paste the embed code into the text widget (see image 4). Voilà... your map appears in your sidebar!
 
 ### Inactive Widgets
 
@@ -125,7 +125,7 @@ A new widget will appear in your active widget area (image 6).
 
 ### Other Widget Areas
 
-Let's change your theme to Twenty Fifteen. You can see you have the same widgets but have them show in a new and different widget area.  Twenty Fifteen comes with only one widget area labeled "Widget Area."  Other themes can have five, six, ten, or more widget areas. These are features of your theme and vary greatly. Let's change our theme back to Twenty Sixteen now. Widget visibility is theme dependent. Whether a widget appears to the left, right, or top of the page or on pages versus posts could all be unique to each theme.
+Let's change your theme to Twenty Fifteen. You can see you have the same widgets but have them show in a new and different widget area. Twenty Fifteen comes with only one widget area labeled "Widget Area." Other themes can have five, six, ten, or more widget areas. These are features of your theme and vary greatly. Let's change our theme back to Twenty Sixteen now. Widget visibility is theme dependent. Whether a widget appears to the left, right, or top of the page or on pages versus posts could all be unique to each theme.
 
 ### Wrap Up
 
