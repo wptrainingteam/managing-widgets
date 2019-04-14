@@ -51,7 +51,7 @@ Widgets are tools that allow a user to add and control features or content to 
 Widgets can add features to a page such as: a calendar, a map, an archive list, a list of profile photos for users that are currently logged in.
 *The current version of WordPress provide functionality to add widgets to posts. However, some creative authors have created plugins that provide users with the capability to add widgets to posts or within page content. We will not be covering this nuance in this tutorial.*
 
-Review the homepage of the Twenty Sixteen theme and its predefined existing widgets in the footer . We'll discuss in a bit more detail where widgets come from, but suffice it to say that they either come bundled in a theme or can be added by installing and activating certain plugins. In today's tutorial we will be using the Twenty Sixteen and Twenty Fifteen themes. Let's have a look at how the theme authors are using widgets in a standard install of the Twenty Sixteen theme.
+Review the homepage of the Twenty Sixteen theme and its predefined existing widgets in the footer. We'll discuss in a bit more detail where widgets come from, but suffice it to say that they either come bundled in a theme or can be added by installing and activating certain plugins. In today's tutorial we will be using the Twenty Sixteen and Twenty Fifteen themes. Let's have a look at how the theme authors are using widgets in a standard install of the Twenty Sixteen theme.
 ![twenty-sixteen-screen-shot](/images/TwentysSixteen-theme.png)
 (image 1)
 
