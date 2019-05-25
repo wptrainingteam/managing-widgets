@@ -51,7 +51,7 @@ Widgets are tools that allow a user to add and control features or content to 
 Widgets can add features to a page such as: a calendar, a map, an archive list, a list of profile photos for users that are currently logged in.
 *The current version of WordPress provide functionality to add widgets to posts. However, some creative authors have created plugins that provide users with the capability to add widgets to posts or within page content. We will not be covering this nuance in this tutorial.*
 
-Review the homepage of the Twenty Sixteen theme and its predefined existing widgets in the footer . We'll discuss in a bit more detail where widgets come from, but suffice it to say that they either come bundled in a theme or can be added by installing and activating certain plugins. In today's tutorial we will be using the Twenty Sixteen and Twenty Fifteen themes. Let's have a look at how the theme authors are using widgets in a standard install of the Twenty Sixteen theme.
+Review the homepage of the Twenty Sixteen theme and its predefined existing widgets in the footer. We'll discuss in a bit more detail where widgets come from, but suffice it to say that they either come bundled in a theme or can be added by installing and activating certain plugins. In today's tutorial we will be using the Twenty Sixteen and Twenty Fifteen themes. Let's have a look at how the theme authors are using widgets in a standard install of the Twenty Sixteen theme.
 ![twenty-sixteen-screen-shot](/images/TwentysSixteen-theme.png)
 (image 1)
 
@@ -70,8 +70,8 @@ We'll work with the existing widgets in the Twenty Sixteen theme, then install
 *   Open your **Dashboard >Appearance>Widgets**.
 *   **Available Widgets**: These are the widgets available for you to use.
 *   **Sidebar Widget Area**: This region will be pre-populated with widgets at install.
-*   **Content Bottom 1 Widget Area**: This area appears at the bottom of a post or page
-*   **Content Bottom 2 Widget Area**: This area appears at the bottom of a post or page
+*   **Content Bottom 1 Widget Area**: This area appears at the bottom of a post or page.
+*   **Content Bottom 2 Widget Area**: This area appears at the bottom of a post or page.
 
 Take a moment to find where these "widget areas" appear on your webpage.
 
@@ -85,7 +85,7 @@ When you click on the arrow to the right on the title line (see image 2), it wi
 
 "Title", "Delete" and "Close" are the only options for the search widget.
 
-Next, let's modify the "Category" widget to work as a dropdown. Save your work and view your site. Let's add a "Navigation Menu" widget. You can drag and drop the widget into the widget area.  Now you can drag and drop your widget to place it where you like.
+Next, let's modify the "Category" widget to work as a dropdown. Save your work and view your site. Let's add a "Navigation Menu" widget. You can drag and drop the widget into the widget area. Now you can drag and drop your widget to place it where you like.
 *If you have not installed the "[test data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml)" or created any menus, nothing will show up in the menu on your site.*
 Last we will add a "Tag Cloud" to the "Content Bottom 1" widget area. Save your changes and view your site.
 *Note: The bottom 1 & 2 widget areas do not show up on blog front page of Twenty-Sixteen.*
