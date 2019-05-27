@@ -6,35 +6,35 @@ Widgets provide a convenient means of adding content and features to a website a
 
 ## Prerequisite Skills
 
-*   Basic understanding of the [WordPress dashboard](https://make.wordpress.org/training/handbook/user-lessons/overview-of-the-dashboard/)
-*   Basic understanding of a theme, [pages and posts](https://make.wordpress.org/training/handbook/user-lessons/pages-vs-posts/)
-*   Basic understanding of the layout of a page including [the header, footer, sidebar and body](https://make.wordpress.org/training/handbook/theme-school/anatomy-of-a-theme/)
-*   Understanding of [installing a plugin](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/) (helpful for last part of lesson)
-*   Understanding of simple HTML formatting is helpful but not necessary
+* Basic understanding of the [WordPress dashboard](https://make.wordpress.org/training/handbook/user-lessons/overview-of-the-dashboard/)
+* Basic understanding of a theme, [pages and posts](https://make.wordpress.org/training/handbook/user-lessons/pages-vs-posts/)
+* Basic understanding of the layout of a page including [the header, footer, sidebar and body](https://make.wordpress.org/training/handbook/theme-school/anatomy-of-a-theme/)
+* Understanding of [installing a plugin](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/) (helpful for last part of lesson)
+* Understanding of simple HTML formatting is helpful but not necessary
 
 ## Assets
 
-*   [Twenty Fifteen theme](https://wordpress.org/themes/twentyfifteen/)
-*   [Twenty Sixteen theme](https://wordpress.org/themes/twentysixteen/)
-*   [WordPress Importer](https://wordpress.org/plugins/wordpress-importer/)
-*   [Theme Unit Test Data](https://codex.wordpress.org/Theme_Unit_Test)
-*   Example Plugin [Image Widget](https://wordpress.org/plugins/image-widget/)
+* [Twenty Fifteen Theme](https://wordpress.org/themes/twentyfifteen/)
+* [Twenty Sixteen Theme](https://wordpress.org/themes/twentysixteen/)
+* [WordPress Importer](https://wordpress.org/plugins/wordpress-importer/)
+* [Theme Unit Test Data](https://codex.wordpress.org/Theme_Unit_Test)
+* Example Plugin [Image Widget](https://wordpress.org/plugins/image-widget/)
 
 ## Screening Questions
 
-*   Do you have admin access to your website? (Preferred answer: yes)
-*   What theme are you currently using? (Preferred answer: anything but “I don’t know”)
+* Do you have admin access to your website? (Preferred answer: yes)
+* What theme are you currently using? (Preferred answer: anything but “I don’t know”)
 
 ## Teacher Notes
 
-*   Ensure that the students' WordPress installations include both the Twenty Fifteen and Sixteen themes.
-*   [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) and the [WordPress Importer plugin](https://wordpress.org/plugins/wordpress-importer/) are not critical but provide additional content to demonstrate the effects of changes to widget parameters.
-*   We will start with the Twenty Sixteen theme activated and the Twenty Fifteen deactivated.
-*   We will add the "[Image Widget](https://wordpress.org/plugins/image-widget/)" plugin. This can be installed beforehand but not activated.
-*   Resources:
-    *   [Codex](http://codex.wordpress.org/WordPress_Widgets "Codex - WordPress Widgets")
-    *   [Plugin Directory](https://wordpress.org/plugins/tags/widget "WordPress Plugin Directory - Tag - Widgets")
-    *   [Wordpress.com Widgets](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml "Dot Com Widget Examples")
+* Ensure that the students' WordPress installations include both the Twenty Fifteen and Sixteen themes.
+* [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) and the [WordPress Importer plugin](https://wordpress.org/plugins/wordpress-importer/) are not critical but provide additional content to demonstrate the effects of changes to widget parameters.
+* We will start with the Twenty Sixteen theme activated and the Twenty Fifteen deactivated.
+* We will add the "[Image Widget](https://wordpress.org/plugins/image-widget/)" plugin. This can be installed beforehand but not activated.
+* Resources:
+    * [Codex](http://codex.wordpress.org/WordPress_Widgets "Codex - WordPress Widgets")
+    * [Plugin Directory](https://wordpress.org/plugins/tags/widget "WordPress Plugin Directory - Tag - Widgets")
+    * [Wordpress.com Widgets](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml "Dot Com Widget Examples")
 
 ## Hands-on Walkthrough
 
@@ -59,19 +59,19 @@ Identify areas on the page where widgets can be included (e.g. footer, sidebars)
 
 ### Where do widgets come from?
 
-*   Some widgets come from your WordPress install.
-*   Other widgets may be included with your theme.
-*   Many plugins provide widgets.
+* Some widgets come from your WordPress install.
+* Other widgets may be included with your theme.
+* Many plugins provide widgets.
 
 We'll work with the existing widgets in the Twenty Sixteen theme, then install a plugin from the repository that adds a widget.
 
 ### Where are your widgets?
 
-*   Open your **Dashboard >Appearance>Widgets**.
-*   **Available Widgets**: These are the widgets available for you to use.
-*   **Sidebar Widget Area**: This region will be pre-populated with widgets at install.
-*   **Content Bottom 1 Widget Area**: This area appears at the bottom of a post or page
-*   **Content Bottom 2 Widget Area**: This area appears at the bottom of a post or page
+* Open your **Dashboard >Appearance>Widgets**.
+* **Available Widgets**: These are the widgets available for you to use.
+* **Sidebar Widget Area**: This region will be pre-populated with widgets at install.
+* **Content Bottom 1 Widget Area**: This area appears at the bottom of a post or page.
+* **Content Bottom 2 Widget Area**: This area appears at the bottom of a post or page.
 
 Take a moment to find where these "widget areas" appear on your webpage.
 
@@ -111,17 +111,17 @@ Often your widget will require some customization. If you have created a widget
 
 ### Widgets added with a plugins
 
-*   Many WordPress plugins will give you a widget to use on your site.
-*   Install (or activate) the plugin "[Image Widget](https://wordpress.org/plugins/image-widget/)"
+* Many WordPress plugins will give you a widget to use on your site.
+* Install (or activate) the plugin "[Image Widget](https://wordpress.org/plugins/image-widget/)"
 
 ![image-widget](/images/new-widget.png)
 (image 6)
 
 A new widget will appear in your active widget area (image 6).
 
-*   Drag the new widget into your sidebar.
-*   Select an image you would like to place in your sidebar. After selection, many other options and fields will appear for including your image, title, alt-text, size, caption, link, etc... Configure accordingly.
-*   Save your configuration and then view your site.
+* Drag the new widget into your sidebar.
+* Select an image you would like to place in your sidebar. After selection, many other options and fields will appear for including your image, title, alt-text, size, caption, link, etc... Configure accordingly.
+* Save your configuration and then view your site.
 
 ### Other Widget Areas
 
@@ -129,34 +129,34 @@ Let's change your theme to Twenty Fifteen. You can see you have the same widgets
 
 ### Wrap Up
 
-*   Final result
-*   Summary - You should be able to:
-    *   Describe what a widget is
-    *   Identify where to include widgets on a website
-    *   Identify the widget areas built to a website theme
-    *   Demonstrate how to add/delete/modify a widget
-    *   Customize a simple widget using the "Text Widget"
+* Final result
+* Summary - You should be able to:
+    * Describe what a widget is
+    * Identify where to include widgets on a website
+    * Identify the widget areas built to a website theme
+    * Demonstrate how to add/delete/modify a widget
+    * Customize a simple widget using the "Text Widget"
 
 ## Exercises
 
 **Exercise Name**
 
-*   Add a search widget to your bottom footer 1 area.
-*   Add a YouTube video.
-*   Add a location map to the sidebar.
-*   Save your map widget to the inactive widget area.
-*   Add an image to your sidebar using the Image Widget
+* Add a search widget to your bottom footer 1 area.
+* Add a YouTube video.
+* Add a location map to the sidebar.
+* Save your map widget to the inactive widget area.
+* Add an image to your sidebar using the Image Widget.
 
 ## Quiz
 
 **Quiz Question**
 
-1.  Describe how you change or include widgets on a freshly installed website.
-2.  Name the locations of the widget areas on the Twenty Sixteen theme. (Answer: 3)
-3.  On the Dashboard widget page, how can you remove a widget from widget area, but preserve the customizations made to the widget for a future use? (Answer: Drop it into the Inactive Widgets area at the bottom of the Widgets page.)
+1. Describe how you change or include widgets on a freshly installed website.
+2. Name the locations of the widget areas on the Twenty Sixteen theme. (Answer: 3)
+3. On the Dashboard widget page, how can you remove a widget from widget area, but preserve the customizations made to the widget for a future use? (Answer: Drop it into the Inactive Widgets area at the bottom of the Widgets page.)
 
 ## Additional Resources
 
-1.  [WordPress Widgets](https://codex.wordpress.org/WordPress_Widgets) @ Codex
-2.  [Widget List](https://codex.wordpress.org/Widget_List) @ Codex
-3.  [Widget Customizer](https://wordpress.org/plugins/widget-customizer/)
+1. [WordPress Widgets](https://codex.wordpress.org/WordPress_Widgets) @ Codex
+2. [Widget List](https://codex.wordpress.org/Widget_List) @ Codex
+3. [Widget Customizer](https://wordpress.org/plugins/widget-customizer/)
