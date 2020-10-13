@@ -32,7 +32,7 @@ Widgets provide a convenient means of adding content and features to a website a
 * We will start with the Twenty Sixteen theme activated and the Twenty Fifteen deactivated.
 * We will add the "[Image Widget](https://wordpress.org/plugins/image-widget/)" plugin. This can be installed beforehand but not activated.
 * Resources:
-    * [Codex](http://codex.wordpress.org/WordPress_Widgets "Codex - WordPress Widgets")
+    * [Code Reference](https://wordpress.org/support/article/wordpress-widgets/ "Code Reference - WordPress Widgets")
     * [Plugin Directory](https://wordpress.org/plugins/tags/widget "WordPress Plugin Directory - Tag - Widgets")
     * [Wordpress.com Widgets](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml "Dot Com Widget Examples")
 
